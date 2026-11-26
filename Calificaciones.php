@@ -1,5 +1,5 @@
 <?php
-$nombre = "Kirany";
+$nombre = "Thaily";
 $edad = 17;
 $especialidad = "Programacion";
 $inscrito = true;
@@ -46,7 +46,7 @@ echo "Aprobado";
 } elseif ($calificacion >=0 && $calificacion < 6) {
 echo "No aprobado";
 } else {
-echo "Calificacion invalida";
+echo "La calificacion es invalida";
 }
 ?>
 
