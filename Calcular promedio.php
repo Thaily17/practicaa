@@ -11,5 +11,5 @@ function calcularPromedio($a, $b, $c) {
 return ($a + $b + $c) / 3;
 }
 $promedio = calcularPromedio(8, 9, 7);
-echo "El promedio es: " . $promedio;
+echo "El promedio final del alumno es: " . $promedio;
 ?>
